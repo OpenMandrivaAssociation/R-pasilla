@@ -4,7 +4,7 @@
 Name:             R-%{packname}
 Version:          0.2.11
 Release:          1
-Summary:          Data package with per-exon and per-gene read counts of RNA-seq samples of Pasilla knock-down by Brooks et al., Genome Research 2011
+Summary:          Per-exon and per-gene read counts of RNA-seq samples of Pasilla knock-down
 Group:            Sciences/Mathematics
 License:          LGPL
 URL:              None
